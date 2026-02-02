@@ -1,7 +1,7 @@
 <a name="top"></a>
 <h1 align="center">Visión por Computadora</h1>
 <div  align="center">
-<b>2025-2</b>
+<b>2026-1</b>
 </div>
 <br/>
 <div  align="center">
